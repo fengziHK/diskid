@@ -1,0 +1,4 @@
+select disk 0
+detail disk 
+select disk 1
+detail disk
